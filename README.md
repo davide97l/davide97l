@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently **graduate researcher at Tsinghua University
+- 🔭 I’m currently **graduate researcher at Tsinghua University**
 - 🌱 I’m currently learning **robustness on Deep Reinforcement Learning**
 - 👯 I’m looking to collaborate on **interesting projects based on AI**
 - 🤔 I’m looking for help in **learning chinese**
