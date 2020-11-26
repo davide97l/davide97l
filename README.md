@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Master student at Tsinghua University | Data Scientists at Genify.ai</h3>
 <!--
-**davide97l/davide97l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**davide97l/davide97l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 📝 I write articles on [https://davideliu.com/](https://davideliu.com/)
 - ⚡ Fun fact: **I never rest**
--->
 
 <h1 align="center">Hi 👋, I'm Keavnn</h1>
 <h3 align="center">Reinforcement Learning Amateur. A master candidate from SHU</h3>
