@@ -11,9 +11,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/davide-liu-9a39a3123/) | [Instagram](https://www.instagram.com/_davide_liu/) | **davide97ls@gmail.com**
 - 📝 I write articles on [https://davideliu.com/](https://davideliu.com/)
 - ⚡ Fun fact: **I never rest**
+[](https://hit.yhype.me/github/profile?user_id=41103541)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide97l&layout=compact&hide=html" alt="davide97l" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=davide97l&show_icons=true" alt="davide97l" /></p>
-
-[](https://hit.yhype.me/github/profile?user_id=41103541)
