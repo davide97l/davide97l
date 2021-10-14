@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">Master student at Tsinghua University | TSAIL | Data Scientists at Genify.ai</h3>
+<h3 align="center">Tsinghua University | TSAIL | Researcher at SenseTime</h3>
 <!--
 **davide97l/davide97l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
