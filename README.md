@@ -16,3 +16,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=davide97l&show_icons=true" alt="davide97l" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=41103541)
+
+<sup><kbd>***[Click here](https://github.com/davide97l/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
