@@ -10,7 +10,7 @@
 - 💬 Ask me about **issues in my code**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/davide-liu-9a39a3123/) | [Instagram](https://www.instagram.com/_davide_liu/) | **davide97ls@gmail.com**
 - 📝 I write articles on [https://davideliu.com/](https://davideliu.com/)
-- ⚡ Fun fact: I've ran a 1h13' **halfmarathon** ([link](https://www.strava.com/activities/6846835653))
+- ⚡ Fun fact: I've ran a 1h13' **halfmarathon** ([link](https://www.strava.com/activities/6851486449))
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide97l&layout=compact&hide=html" alt="davide97l" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=davide97l&show_icons=true" alt="davide97l" /></p>
