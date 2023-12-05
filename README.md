@@ -4,7 +4,7 @@
 **davide97l/davide97l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I was **graduate researcher at Tsinghua University** doing research on **robustness on Deep Reinforcement Learning**
-- 🌱 I was **researcher at SenseTime**
+- 🌱 I was **researcher at SenseTime, Mindsflow, and Genify**
 - 👯 I’m looking to collaborate on **interesting projects based on AI**
 - 🤔 I’m looking for help in **learning chinese**
 - 💬 Ask me about **issues in my code**
