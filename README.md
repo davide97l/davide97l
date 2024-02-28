@@ -12,10 +12,6 @@
 - 📝 I write blog articles at [https://davideliu.com/](https://davideliu.com/)
 - 🤗 Fun facts about me: I ran a [Spartan Race](https://www.instagram.com/p/Cvo4yRyS_BF/?img_index=1), a [marathon](https://www.instagram.com/p/Cxh_nNDLP7J/?img_index=1), and [climbed a 4000m mountain](https://www.instagram.com/p/CjPy0Zmro7_/?img_index=1).
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide97l&layout=compact&hide=html" alt="davide97l" /></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=davide97l&show_icons=true" alt="davide97l" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=41103541)
-
-<sup><kbd>***[Click here](https://github.com/davide97l/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
